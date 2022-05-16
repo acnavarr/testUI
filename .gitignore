@@ -1,0 +1,14 @@
+target/
+build/
+bin/
+lib/
+.gradle
+.classpath
+.project
+.settings
+prueba.properties
+.idea
+*.iml
+**/.DS_Store
+!/.mvn/wrapper/maven-wrapper.jar
+browserstack.err
