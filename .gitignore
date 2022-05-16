@@ -6,7 +6,6 @@ lib/
 .classpath
 .project
 .settings
-prueba.properties
 .idea
 *.iml
 **/.DS_Store
